@@ -8,23 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student working in the School of Data Science at Fudan University. I am a member of [Data Intelligence and Social Computing Lab (DISC Lab)](http://fudan-disc.com/), advised by [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Software Engineering from Fudan University. During my PhD, I've also spent time with [the Intelligence and Knowledge Discovery (INK) Research Lab](https://ink-usc.github.io/)  at University of Southern California, advised by [Xiang Ren](https://shanzhenren.github.io/). I focuses on the alignment of Qwen-VL. Up to now, He has published several papers in the world top conferences such as ACL, NAACL, NeurIPS, AAAI and IJCAI.
+I serve as an algorithm expert at Alibaba's Tongyi Laboratory. I received my Ph.D. from Fudan University in 2023, under the supervision of Professor [Jianqing Fan](https://fan.princeton.edu/) and Professor [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Mathematics and Applied Mathematics from Fudan University. During my Ph.D., I also spent time with [MReaL](https://mreallab.github.io/) (Machine Reasoning and Learning, pronounced Me Real) at Nanyang Technological University, advised by [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/).
 
-My primary research interests include **Natural Language Processing** and **Machine Learning**, with a focus on vision-language research including large model and agents. 
+My primary research interests lie in **Natural Language Processing** and **Vision-Language Reasearch** including large vision-language model and multi-modal agents. Currently, I focus on the Qwen-VL.
 
 Professional Service
 ======
-* **Co-Organizer**
-  + Program Committee Chair of CSSNLP 2021,  Organizing Committee of CSSNLP 2020
-
-* **Program Committee (Reviewer)**
-  + NeurIPS23/24, ICML24, ICLR24, ACL19/20/21/22/23/24, AAAI, IJCAI, EMNLP, NAACL, NLPCC
++ Area Chair: ACL 2023/2024
++ NeurIPS23/24, ICML24, ICLR24, ACL19/20/21/22/23/24, IJCAI 19/20/21/22/23/24, AAAI 19/20/21.
 
 Selected Publications
 ======
-(Full list see [Google Scholar](https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN))
+(Full list see [Google Scholar](https://scholar.google.com/citations?user=xfqnSacAAAAJ&hl=zh-CN))
 
-
+* [**TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning**](https://www.ijcai.org/proceedings/2021/0091.pdf)<br />
+  Zhihao Fan, Zhongyu Wei, **Siyuan Wang**, Ruize Wang, Zejun Li, Haijun Shan, Xuanjing Huang.<br />
+  IJCAI 2021. [[code]](https://github.com/LibertFan/TCIC)
 
 Experience
 ======
@@ -34,14 +33,14 @@ Experience
     - Large Vision-Language Model
     - Multimodal Agents
 
-* **Fudan University**. DISC Lab. *Oct 2016 - Sep 2023*
+* **Fudan University**. [DISC Lab](http://www.fudan-disc.com/). *Oct 2016 - Sep 2023*
   + Graduate Research Assistant. Advisor: [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/)
   + Focus:
     - Vision-Language Generation and Retrieval
     - Vision-Language Pre-training
     
-* ** **. MReal Lab. *Oct 2022 -  2023*
-  + Visiting Scholar. Advisor: [Hangwang Zhang](https://shanzhenren.github.io/)
+* **Nanyang Technological University**. [MReal Lab](https://mreallab.github.io/). *Oct 2022 -  2023*
+  + Visiting Scholar. Advisor: [Hangwang Zhang]([https://shanzhenren.github.io/](https://personal.ntu.edu.sg/hanwangzhang/))
   + Focus: Diffusion Model
     
 * **Microsoft Research Asia**. NLC Group. *Sep 2019 - Mar. 2020*
