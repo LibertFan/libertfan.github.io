@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I serve as an algorithm expert at Alibaba's Tongyi Laboratory. I received my Ph.D. from Fudan University in 2023, under the supervision of Professor [Jianqing Fan](https://fan.princeton.edu/) and Professor [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Mathematics and Applied Mathematics from Fudan University. During my Ph.D., I also spent time with [MReaL](https://mreallab.github.io/) (Machine Reasoning and Learning, pronounced Me Real) at Nanyang Technological University, advised by [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/).
+I serve as an algorithm expert at Alibaba's Tongyi Laboratory. I received my Ph.D. from Fudan University in 2023, under the supervision of Professor [Jianqing Fan](https://fan.princeton.edu/) and Professor [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Mathematics and Applied Mathematics from Fudan University. During my Ph.D., I also spent time with [MReaL](https://mreallab.github.io/) (Machine Reasoning and Learning) at Nanyang Technological University, advised by [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/).
 
 My primary research interests lie in **Vision-Language Reasearch** including large vision-language model and multi-modal agents. Currently, I focus on the Qwen-VL.
 
