@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zhihao Fan"
-  avatar           : "IMG_4298.jpg"
-  bio              : "Algorithm Expert at Alibaba"
+  avatar           : "https://libertfan.github.io/images/IMG_4298.jpg"
+  bio              : "Vision-and-Language"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
