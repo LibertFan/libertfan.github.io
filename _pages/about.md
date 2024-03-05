@@ -17,6 +17,21 @@ Professional Service
 + Area Chair: ACL 2023/2024
 + Reviewer: NeurIPS, ICML, ICLR, ACL, EMNLP, IJCAI, AAAI.
 
+Preprint
+======
+* [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
+  **Zhihao Fan**, Jialong Tang, Wei Chen, Siyuan Wang, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
+  Arxiv. [[code]](https://github.com/LibertFan/AI_Hospital)
+
+* [**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**](https://arxiv.org/abs/2402.11443)<br />
+  Siyuan Wang, Zhuohan Long, **Zhihao Fan**, Zhongyu Wei.<br />
+  Arxiv. [[code]](https://github.com/NanshineLoong/Self-Evolving-Benchmark)
+
+* [**Reform-Eval: Evaluating Large Vision Language Models via Unified Re-formulation of Task-Oriented Benchmarks**](https://arxiv.org/abs/2310.02569)<br />
+  Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, Chengxing Zhou, **Zhihao Fan**, Jie Fu, Jingjing Chen, Xuanjing Huang, Zhongyu Wei.<br />
+  Arxiv. [[code]](https://github.com/FudanDISC/ReForm-Eval)
+
+  
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=xfqnSacAAAAJ&hl=zh-CN))
