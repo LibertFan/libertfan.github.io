@@ -15,7 +15,7 @@ My primary research interests lie in **Vision-Language Reasearch** including lar
 Professional Service
 ======
 + Area Chair: ACL 2023/2024
-+ Reviewer: NeurIPS 2023/2024, ICML 2024, ICLR 2024, ACL 2019/2020/2021/2022/2023/2024, IJCAI 2019/2020/2021/2022/2023/2024, AAAI 2019/2020/2021.
++ Reviewer: NeurIPS, ICML, ICLR, ACL, EMNLP, IJCAI, AAAI.
 
 Selected Publications
 ======
