@@ -17,6 +17,13 @@ Professional Service
 + Area Chair: ACL 2023/2024
 + Reviewer: NeurIPS, ICML, ICLR, ACL, EMNLP, IJCAI, AAAI.
 
+Honors and Awards
+======
++ Alibaba Star (Top 1%), Alibaba Group, 2022
++ ByteDance Scholarship (10 in China), 2021
++ National Scholarship for Doctoral Students (Top 1%) in Fudan University, Ministry of Education, 2019
+
+
 Preprint
 ======
 * [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
