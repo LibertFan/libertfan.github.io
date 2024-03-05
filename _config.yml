@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siyuan Wang (王思远)"
+title                    : "Zhihao Fan (范智昊)"
 title_separator          : "-"
-name                     : &name "Siyuan Wang"
-description              : &description "Fudan DISC Lab Ph.D." 
-url                      : https://siyuanwangw.github.io
+name                     : &name "Zhihao Fan"
+description              : &description "Vision-and-Language" 
+url                      : https://zhihao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SiyuanWangw/siyuanwangw.github.io"
+repository               : "LibertFan/zhihao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Siyuan Wang"
+  name             : "Zhihao Fan"
   avatar           : "siyuan_wang2.jpg"
-  bio              : "PhD student at Fudan"
-  location         : "Shanghai, China"
+  bio              : "Algorithm Expert at Alibaba"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=t_tryJ0AAAAJ&hl=zh-CN"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "siyuanwangw"
+  github           : "LibertFan"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "yuanyua40428060"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
