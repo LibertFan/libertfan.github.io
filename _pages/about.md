@@ -72,11 +72,11 @@ Experience
     - Vision-Language Generation and Retrieval
     - Vision-Language Pre-training
     
-* **Nanyang Technological University**. [MReal Lab](https://mreallab.github.io/). *Oct 2022 -  2023*
+* **Nanyang Technological University**. [MReal Lab](https://mreallab.github.io/). *Oct 2022 - Apr 2023*
   + Visiting Scholar. Advisor: [Hangwang Zhang]([https://shanzhenren.github.io/](https://personal.ntu.edu.sg/hanwangzhang/))
   + Focus: Diffusion Model
     
 * **Microsoft Research Asia**. NLC Group. *Sep 2019 - Mar. 2020*
-  + Research Intern. Advisor: [Yeyun Gonng](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN)
+  + Research Intern. Advisor: [Yeyun Gong](https://scholar.google.com/citations?user=piUkwMYAAAAJ&hl=zh-CN)
   + Focus: Transformer Architecture
 
