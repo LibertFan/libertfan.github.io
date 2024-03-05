@@ -19,7 +19,7 @@ Professional Service
 
 Honors and Awards
 ======
-+ Alibaba Star (Top 1%), Alibaba Group, 2022
++ Alibaba Star (Top 1%), Alibaba Group, 2023
 + ByteDance Scholarship (10 in China), 2021
 + National Scholarship for Doctoral Students (Top 1%) in Fudan University, Ministry of Education, 2019
 
