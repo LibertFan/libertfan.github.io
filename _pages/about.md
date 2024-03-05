@@ -10,7 +10,7 @@ redirect_from:
 
 I serve as an algorithm expert at Alibaba's Tongyi Laboratory. I received my Ph.D. from Fudan University in 2023, under the supervision of Professor [Jianqing Fan](https://fan.princeton.edu/) and Professor [Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/). Before that, I received my Bachelor's degree in Mathematics and Applied Mathematics from Fudan University. During my Ph.D., I also spent time with [MReaL](https://mreallab.github.io/) (Machine Reasoning and Learning, pronounced Me Real) at Nanyang Technological University, advised by [Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/).
 
-My primary research interests lie in **Natural Language Processing** and **Vision-Language Reasearch** including large vision-language model and multi-modal agents. Currently, I focus on the Qwen-VL.
+My primary research interests lie in **Vision-Language Reasearch** including large vision-language model and multi-modal agents. Currently, I focus on the Qwen-VL.
 
 Professional Service
 ======
@@ -21,9 +21,42 @@ Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=xfqnSacAAAAJ&hl=zh-CN))
 
+* [**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**](https://proceedings.neurips.cc/paper_files/paper/2023/file/7d866abba506e5a56335e4644ebe18f9-Paper-Conference.pdf)<br />
+  Tong Wu^*, **Zhihao Fan^{*}** (Equal Contribution), Xiao Liu, Hai-Tao Zheng, Yeyun Gong, Jian Jiao, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.<br />
+  NeurIPS 2023. [[code]](https://github.com/microsoft/ProphetNet/tree/master/AR-diffusion)
+
+* [**Unifying Cross-Lingual and Cross-Modal Modeling Towards Weakly Supervised Multilingual Vision-Language Pre-training**](https://aclanthology.org/2023.acl-long.327/)<br />
+  Zejun Li, **Zhihao Fan**, Jingjing Chen, Qi Zhang, Xuanjing Huang, Zhongyu Wei.<br />
+  ACM MM 2022. [[code]](https://github.com/FudanDISC/weakly-supervised-mVLP)
+
+* [**Negative Sample is Negative in Its Own Way: Tailoring Negative Sentences for Image-Text Retrieval**](https://aclanthology.org/2022.findings-naacl.204/)<br />
+  **Zhihao Fan**, Zhongyu Wei, Zejun Li, Siyuan Wang, Jianqing Fan.<br />
+  NAACL 2022 Findings. [[code]](https://github.com/LibertFan/TAGS)
+
+* [**MVP: Multi-Stage Vision-Language Pre-training via Multi-Level Semantic Alignment**](https://arxiv.org/abs/2201.12596)<br />
+  Zejun Li, **Zhihao Fan**, Huaixiao Tou, Zhongyu Wei.<br />
+  ACM MM 2022. [[code]](https://github.com/Junction4Nako/mvp_pytorch)
+
 * [**TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning**](https://www.ijcai.org/proceedings/2021/0091.pdf)<br />
-  Zhihao Fan, Zhongyu Wei, **Siyuan Wang**, Ruize Wang, Zejun Li, Haijun Shan, Xuanjing Huang.<br />
+  **Zhihao Fan**, Zhongyu Wei, Siyuan Wang, Ruize Wang, Zejun Li, Haijun Shan, Xuanjing Huang.<br />
   IJCAI 2021. [[code]](https://github.com/LibertFan/TCIC)
+
+* [**Mask Attention Networks: Rethinking and Strengthen Transformer**](https://aclanthology.org/2021.naacl-main.135/)<br />
+  **Zhihao Fan**, Yeyun Gong, Dayiheng Liu, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Xuanjing Huang.<br />
+  NAACL 2021. [[code]](https://github.com/LibertFan/MAN)
+
+* [**Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning**](https://aclanthology.org/P19-1652/)<br />
+  **Zhihao Fan**, Zhongyu Wei, Siyuan Wang, Xuanjing Huang.<br />
+  ACL 2019. [[code]](https://github.com/LibertFan/ImageCaption)
+  
+* [**A Reinforcement Learning Framework for Natural Question Generation Using Bi-Discriminators**](https://aclanthology.org/C18-1150/)<br />
+  **Zhihao Fan**, Yeyun Gong, Dayiheng Liu, Zhongyu Wei, Siyuan Wang, Jian Jiao, Nan Duan, Xuanjing Huang.<br />
+  COLING 2018. 
+
+* [**A Question Type Driven Framework to Diversify Visual Question Generation.**](https://www.ijcai.org/proceedings/2018/563)<br />
+  **Zhihao Fan**, Zhongyu Wei, Piji Li, Yanyan Lan, Xuanjing Huang.<br />
+  IJCAI 2018. 
+
 
 Experience
 ======
