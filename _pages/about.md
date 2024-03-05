@@ -44,7 +44,7 @@ Selected Publications
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=xfqnSacAAAAJ&hl=zh-CN))
 
 * [**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**](https://proceedings.neurips.cc/paper_files/paper/2023/file/7d866abba506e5a56335e4644ebe18f9-Paper-Conference.pdf)<br />
-  Tong Wu[^\*], **Zhihao Fan**[^\*] (Equal Contribution), Xiao Liu, Hai-Tao Zheng, Yeyun Gong, Jian Jiao, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.<br />
+  Tong Wu\*, **Zhihao Fan**\* (Equal Contribution), Xiao Liu, Hai-Tao Zheng, Yeyun Gong, Jian Jiao, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.<br />
   NeurIPS 2023. [[code]](https://github.com/microsoft/ProphetNet/tree/master/AR-diffusion)
 
 * [**Unifying Cross-Lingual and Cross-Modal Modeling Towards Weakly Supervised Multilingual Vision-Language Pre-training**](https://aclanthology.org/2023.acl-long.327/)<br />
