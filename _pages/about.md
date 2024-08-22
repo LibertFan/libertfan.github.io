@@ -12,6 +12,8 @@ I serve as an algorithm expert at Alibaba's Tongyi Laboratory. I received my Ph.
 
 My primary research interests lie in **Vision-Language Reasearch** including large vision-language model and multi-modal agents. Currently, I focus on the Qwen-VL.
 
+** We are hiring self-motivated research interns about Video LLM, Multi-Modal Agent and Embodied AI! Feel free to contant me**.
+
 Professional Service
 ======
 + Area Chair: ACL 2023/2024
@@ -26,6 +28,9 @@ Honors and Awards
 
 Preprint
 ======
+* [**Qwen2 Technical Report**](https://arxiv.org/abs/2407.10671)<br />
+  Technical Report. [[code]](https://github.com/QwenLM/Qwen2)
+
 * [**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**](https://arxiv.org/abs/2402.09742)<br />
   **Zhihao Fan**, Jialong Tang, Wei Chen, Siyuan Wang, Zhongyu Wei, Jun Xie, Fei Huang, Jingren Zhou.<br />
   Arxiv. [[code]](https://github.com/LibertFan/AI_Hospital)
@@ -34,14 +39,14 @@ Preprint
   Siyuan Wang, Zhuohan Long, **Zhihao Fan**, Zhongyu Wei.<br />
   Arxiv. [[code]](https://github.com/NanshineLoong/Self-Evolving-Benchmark)
 
-* [**Reform-Eval: Evaluating Large Vision Language Models via Unified Re-formulation of Task-Oriented Benchmarks**](https://arxiv.org/abs/2310.02569)<br />
-  Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, Chengxing Zhou, **Zhihao Fan**, Jie Fu, Jingjing Chen, Xuanjing Huang, Zhongyu Wei.<br />
-  Arxiv. [[code]](https://github.com/FudanDISC/ReForm-Eval)
-
   
 Selected Publications
 ======
 (Full list see [Google Scholar](https://scholar.google.com/citations?user=xfqnSacAAAAJ&hl=zh-CN))
+
+* [**Reform-Eval: Evaluating Large Vision Language Models via Unified Re-formulation of Task-Oriented Benchmarks**](https://arxiv.org/abs/2310.02569)<br />
+  Zejun Li, Ye Wang, Mengfei Du, Qingwen Liu, Binhao Wu, Jiwen Zhang, Chengxing Zhou, **Zhihao Fan**, Jie Fu, Jingjing Chen, Xuanjing Huang, Zhongyu Wei.<br />
+  ACMMM 2024. [[code]](https://github.com/FudanDISC/ReForm-Eval)
 
 * [**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**](https://proceedings.neurips.cc/paper_files/paper/2023/file/7d866abba506e5a56335e4644ebe18f9-Paper-Conference.pdf)<br />
   Tong Wu\*, **Zhihao Fan**\* (Equal Contribution), Xiao Liu, Hai-Tao Zheng, Yeyun Gong, Jian Jiao, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.<br />
