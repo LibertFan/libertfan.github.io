@@ -12,7 +12,7 @@ I serve as an algorithm expert at Alibaba's Tongyi Laboratory. I received my Ph.
 
 My primary research interests lie in **Vision-Language Reasearch** including large vision-language model and multi-modal agents. Currently, I focus on the Qwen-VL.
 
-** We are hiring self-motivated research interns about Video LLM, Multi-Modal Agent and Embodied AI! Feel free to contant me**.
+**We are hiring self-motivated research interns about Video LLM, Multi-Modal Agent and Embodied AI! Feel free to contant me**.
 
 Professional Service
 ======
@@ -24,7 +24,6 @@ Honors and Awards
 + Alibaba Star (Top 1%), Alibaba Group, 2023
 + ByteDance Scholarship (10 in China), 2021
 + National Scholarship for Doctoral Students (Top 1%) in Fudan University, Ministry of Education, 2019
-
 
 Preprint
 ======
