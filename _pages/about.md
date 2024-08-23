@@ -12,7 +12,7 @@ I serve as an algorithm expert at Alibaba's Tongyi Laboratory. I received my Ph.
 
 My primary research interests lie in **Vision-Language Reasearch** including large vision-language model and multi-modal agents. Currently, I focus on the Qwen-VL.
 
-**We are hiring self-motivated research interns about Video LLM, Multi-Modal Agent and Embodied AI! Feel free to contant me**.
+**We are hiring self-motivated research interns about Video LLM, Multi-Modal Agent and Embodied AI. Feel free to contant me**.
 
 Professional Service
 ======
