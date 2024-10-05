@@ -28,7 +28,7 @@ Honors and Awards
 Preprint
 ======
 * [**Qwen2-VL Technical Report**](https://arxiv.org/abs/2409.12191)<br />
-  Core Contributor.
+  Core Contributor.<br />
   Technical Report. [[code]](https://github.com/QwenLM/Qwen2-VL)
 
 * [**Qwen2 Technical Report**](https://arxiv.org/abs/2407.10671)<br />
